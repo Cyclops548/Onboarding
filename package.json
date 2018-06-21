@@ -1,0 +1,11 @@
+{
+  "name": "onboardingbot",
+  "version": "1.0.0",
+  "description": "Bot for Onboarding purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyank Vijaywargi",
+  "license": "ISC"
+}
